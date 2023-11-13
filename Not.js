@@ -27,6 +27,6 @@
                         alert.style.display = 'block';
                     })
                     .catch(error => console.error('Error fetching Blogger API:', error));
-            }, 14000);
+            }, 20000);
         }
     });
